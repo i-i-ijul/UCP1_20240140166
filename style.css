@@ -1,0 +1,40 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.box {
+    width: 100%;
+    height: 50px;
+    color: white;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: #2880b9;
+}
+
+section {
+    text-align: center;
+    align-items: center;
+    border: solid 1px #2880b9;
+    box-sizing: border-box;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+
+.btn {
+    justify-content: center;
+    text-align: center;
+}
+
+.pendaftaran, a {
+    background-color: #2880b9;
+    color: white;
+    text-decoration: none;
+    width: 300px;
+    height: 40px;
+    border: transparent;
+    border-radius: 5px;
+}
